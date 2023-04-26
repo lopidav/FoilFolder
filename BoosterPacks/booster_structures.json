@@ -1,0 +1,36 @@
+{
+  "name": "Order and Structure",
+  "id": "structures",
+  "minAchievementCount": 34,
+  "cardBags": [
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "AdvancedHarvestable",
+      "chances": [
+        {
+          "id": "iron_deposit",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        }
+      ],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 2,
+      "setCardBag": "AdvancedBuildingIdea",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "AdvancedResources",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}

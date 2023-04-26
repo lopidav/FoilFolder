@@ -1,0 +1,106 @@
+{
+  "name": "Humble Beginnings",
+  "id": "basic",
+  "minAchievementCount": 3,
+  "cardBags": [
+    {
+      "type": "Chances",
+      "cardsInPack": 3,
+      "setCardBag": "BasicResources",
+      "chances": [
+        {
+          "id": "tree",
+          "chance": 4,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "rock",
+          "chance": 4,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "berrybush",
+          "chance": 4,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "soil",
+          "chance": 4,
+          "hasMaxCount": true,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "rabbit",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "wood",
+          "chance": 6,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "stone",
+          "chance": 6,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "rat",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "blueprint_growth",
+          "chance": 2,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "blueprint_carving",
+          "chance": 2,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": "blueprint_growth"
+        },
+        {
+          "id": "key",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "blueprint_house",
+          "chance": 2,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "blueprint_offspring",
+          "chance": 2,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        }
+      ],
+      "setPackCards": []
+    }
+  ]
+}

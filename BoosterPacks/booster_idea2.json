@@ -1,0 +1,35 @@
+{
+  "name": "Logic and Reason",
+  "id": "idea2",
+  "minAchievementCount": 24,
+  "cardBags": [
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicBuildingIdea",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "AdvancedResources",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicHarvestable",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "AdvancedBuildingIdea",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}

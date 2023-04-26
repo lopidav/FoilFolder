@@ -1,0 +1,43 @@
+{
+  "name": "Island Insights",
+  "id": "island_ideas_2",
+  "minAchievementCount": 9,
+  "cardBags": [
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_AdvancedIdea",
+      "chances": [
+        {
+          "id": "message_in_a_bottle_advanced",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        }
+      ],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_AdvancedResources",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_AdvancedFood",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_AdvancedBuildingIdea",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}

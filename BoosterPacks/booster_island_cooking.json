@@ -1,0 +1,57 @@
+{
+  "name": "Grilling and Brewing",
+  "id": "island_cooking",
+  "minAchievementCount": 7,
+  "cardBags": [
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_AdvancedFood",
+      "chances": [
+        {
+          "id": "key",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "blueprint_house",
+          "chance": 2,
+          "hasMaxCount": true,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        }
+      ],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_Animal",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_CookingIdea",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_BasicFood",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "The Island?",
+  "id": "island_intro",
+  "minAchievementCount": 0,
+  "cardBags": [
+    {
+      "type": "SetPack",
+      "cardsInPack": 3,
+      "setCardBag": "Island_BasicHarvestable",
+      "chances": [],
+      "setPackCards": [
+        "blueprint_cathedral",
+        "rumor_island",
+        "blueprint_rowboat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "On The Shore",
+  "id": "island2",
+  "minAchievementCount": 1,
+  "cardBags": [
+    {
+      "type": "Chances",
+      "cardsInPack": 3,
+      "setCardBag": "Island_BasicHarvestable",
+      "chances": [
+        {
+          "id": "driftwood",
+          "chance": 4,
+          "hasMaxCount": true,
+          "maxCountToGive": 3,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "sand",
+          "chance": 4,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "flint",
+          "chance": 3,
+          "hasMaxCount": true,
+          "maxCountToGive": 2,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "banana_tree",
+          "chance": 2,
+          "hasMaxCount": true,
+          "maxCountToGive": 3,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "fishing_spot",
+          "chance": 4,
+          "hasMaxCount": true,
+          "maxCountToGive": 2,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "monkey",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "seagull",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "cotton_plant",
+          "chance": 3,
+          "hasMaxCount": true,
+          "maxCountToGive": 2,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "banana",
+          "chance": 2,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "seaweed",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        }
+      ],
+      "setPackCards": []
+    }
+  ]
+}

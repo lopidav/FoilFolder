@@ -1,0 +1,77 @@
+{
+  "name": "A New World",
+  "id": "starter",
+  "minAchievementCount": 0,
+  "cardBags": [
+    {
+      "type": "SetPack",
+      "cardsInPack": 5,
+      "setCardBag": "BasicResources",
+      "chances": [
+        {
+          "id": "wood",
+          "chance": 4,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "stone",
+          "chance": 4,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "berrybush",
+          "chance": 3,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "rock",
+          "chance": 3,
+          "hasMaxCount": false,
+          "maxCountToGive": 0,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "tree",
+          "chance": 3,
+          "hasMaxCount": false,
+          "maxCountToGive": 0,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "blueprint_house",
+          "chance": 2,
+          "hasMaxCount": true,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "villager",
+          "chance": 2,
+          "hasMaxCount": true,
+          "maxCountToGive": 2,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "blueprint_offspring",
+          "chance": 2,
+          "hasMaxCount": true,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        }
+      ],
+      "setPackCards": [
+        "villager",
+        "berrybush",
+        "rock",
+        "wood",
+        "gold"
+      ]
+    }
+  ]
+}

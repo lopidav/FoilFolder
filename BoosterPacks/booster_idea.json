@@ -1,0 +1,35 @@
+{
+  "name": "Seeking Wisdom",
+  "id": "idea",
+  "minAchievementCount": 10,
+  "cardBags": [
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicIdea",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicResources",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicBuildingIdea",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicHarvestable",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}

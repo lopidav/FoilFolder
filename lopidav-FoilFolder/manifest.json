@@ -1,0 +1,9 @@
+{
+    "name": "FoilFolder",
+    "version_number": "0.1.0",
+    "website_url": "https://discord.com/users/357116721812865025",
+    "description": "Keeps track of foils you've found",
+    "dependencies": [
+        "BepInEx-BepInExPack_Stacklands-5.4.2100"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Advanced Archipelago",
+  "id": "island_advanced",
+  "minAchievementCount": 12,
+  "cardBags": [
+    {
+      "type": "Enemies",
+      "cardsInPack": 1,
+      "setCardBag": "Island_BasicEnemy",
+      "chances": [
+        {
+          "id": "key",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "blueprint_house",
+          "chance": 2,
+          "hasMaxCount": true,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        }
+      ],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_AdvancedHarvestable",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 2,
+      "setCardBag": "Island_AdvancedResources",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}

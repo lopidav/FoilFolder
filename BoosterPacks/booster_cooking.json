@@ -1,0 +1,28 @@
+{
+  "name": "Curious Cuisine",
+  "id": "cooking",
+  "minAchievementCount": 22,
+  "cardBags": [
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "AdvancedFood",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "CookingIdea",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicFood",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}

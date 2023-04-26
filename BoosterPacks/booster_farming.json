@@ -1,0 +1,64 @@
+{
+  "name": "Reap & Sow",
+  "id": "farming",
+  "minAchievementCount": 16,
+  "cardBags": [
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicFood",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "Chances",
+      "cardsInPack": 1,
+      "setCardBag": "Animal",
+      "chances": [
+        {
+          "id": "rabbit",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "cow",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "chicken",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "soil",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        }
+      ],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicBuildingIdea",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "BasicHarvestable",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "The Armory",
+  "id": "equipment",
+  "minAchievementCount": 26,
+  "cardBags": [
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "EquipmentBlueprints",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "Enemies",
+      "cardsInPack": 1,
+      "setCardBag": "BasicResources",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "AdvancedResources",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}

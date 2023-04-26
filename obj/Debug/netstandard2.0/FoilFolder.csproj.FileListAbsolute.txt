@@ -1,0 +1,10 @@
+D:\dev\FoilFolder\obj\Debug\netstandard2.0\FoilFolder.csproj.AssemblyReference.cache
+D:\dev\FoilFolder\obj\Debug\netstandard2.0\FoilFolder.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\FoilFolder\obj\Debug\netstandard2.0\FoilFolder.AssemblyInfoInputs.cache
+D:\dev\FoilFolder\obj\Debug\netstandard2.0\FoilFolder.AssemblyInfo.cs
+D:\dev\FoilFolder\obj\Debug\netstandard2.0\FoilFolder.csproj.CoreCompileInputs.cache
+D:\dev\FoilFolder\bin\Debug\netstandard2.0\FoilFolder.deps.json
+D:\dev\FoilFolder\bin\Debug\netstandard2.0\FoilFolder.dll
+D:\dev\FoilFolder\bin\Debug\netstandard2.0\FoilFolder.pdb
+D:\dev\FoilFolder\obj\Debug\netstandard2.0\FoilFolder.dll
+D:\dev\FoilFolder\obj\Debug\netstandard2.0\FoilFolder.pdb

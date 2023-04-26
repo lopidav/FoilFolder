@@ -1,0 +1,59 @@
+{
+  "name": "Island of Ideas",
+  "id": "island_ideas_1",
+  "minAchievementCount": 4,
+  "cardBags": [
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_BasicIdea",
+      "chances": [
+        {
+          "id": "key",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "blueprint_house",
+          "chance": 2,
+          "hasMaxCount": true,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        },
+        {
+          "id": "",
+          "chance": 1,
+          "hasMaxCount": false,
+          "maxCountToGive": 1,
+          "prerequisiteCardId": ""
+        }
+      ],
+      "setPackCards": [
+        "message_in_a_bottle_basic"
+      ]
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_BasicHarvestable",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_BasicResources",
+      "chances": [],
+      "setPackCards": []
+    },
+    {
+      "type": "SetCardBag",
+      "cardsInPack": 1,
+      "setCardBag": "Island_BasicIdea",
+      "chances": [],
+      "setPackCards": []
+    }
+  ]
+}
